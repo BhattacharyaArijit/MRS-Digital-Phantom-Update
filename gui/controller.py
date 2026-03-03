@@ -327,5 +327,3 @@ class Controller:
 
         save_nifti_mrs(save_path, total_selection, individual_selection, components, affine, dwelltime, spec_freq, nucleus='1H',
                        sim_params=simulation_params)
-
-
